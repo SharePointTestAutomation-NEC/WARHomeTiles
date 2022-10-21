@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "war-home-tiles-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/warHomeTiles/WarHomeTilesWebPart.js",
+          "manifest": "./src/webparts/warHomeTiles/WarHomeTilesWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WarHomeTilesWebPartStrings": "lib/webparts/warHomeTiles/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "war-home-tiles",
+    "libraryId": "3306789b-d2f2-4ca4-92bc-c504152d71ef",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "war-home-tiles-client-side-solution",
+    "id": "3306789b-d2f2-4ca4-92bc-c504152d71ef",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+  },
+  "paths": {
+    "zippedPackage": "solution/war-home-tiles.sppkg"
+  }
+}
